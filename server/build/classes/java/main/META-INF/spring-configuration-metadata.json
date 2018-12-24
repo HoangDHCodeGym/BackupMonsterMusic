@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "storage",
+      "type": "com.asynchronousmontser.monstermusic.storage.StorageProperties",
+      "sourceType": "com.asynchronousmontser.monstermusic.storage.StorageProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "storage.location",
+      "type": "java.lang.String",
+      "sourceType": "com.asynchronousmontser.monstermusic.storage.StorageProperties"
+    }
+  ],
+  "hints": []
+}

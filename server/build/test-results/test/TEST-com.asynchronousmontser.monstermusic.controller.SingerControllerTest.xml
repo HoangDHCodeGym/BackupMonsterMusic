@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.asynchronousmontser.monstermusic.controller.SingerControllerTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-12-24T01:36:13" hostname="hoang-ThinkPad-X220-Tablet" time="0.007">
+  <properties/>
+  <testcase name="patchUpdateSinger" classname="com.asynchronousmontser.monstermusic.controller.SingerControllerTest" time="0.001"/>
+  <testcase name="setUpSingerController" classname="com.asynchronousmontser.monstermusic.controller.SingerControllerTest" time="0.0"/>
+  <testcase name="getSongList" classname="com.asynchronousmontser.monstermusic.controller.SingerControllerTest" time="0.0"/>
+  <testcase name="getAllSinger" classname="com.asynchronousmontser.monstermusic.controller.SingerControllerTest" time="0.0"/>
+  <testcase name="getSinger" classname="com.asynchronousmontser.monstermusic.controller.SingerControllerTest" time="0.001"/>
+  <testcase name="createSinger" classname="com.asynchronousmontser.monstermusic.controller.SingerControllerTest" time="0.0"/>
+  <testcase name="deleteUser" classname="com.asynchronousmontser.monstermusic.controller.SingerControllerTest" time="0.0"/>
+  <testcase name="putUpdateSinger" classname="com.asynchronousmontser.monstermusic.controller.SingerControllerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
